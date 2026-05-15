@@ -1,6 +1,6 @@
 ---
 name: devrything
-description: Industrial-grade forensic pipeline architecture and documentation engine. Orchestrates bottom-up code mapping, evidence-based data tracing, dark-mode Mermaid visualization, and long-form technical manual generation. Captures pivots, failures, and operator energy for 100% forensic resolution on 500MB+ datasets. Use when: (1) Designing high-volume document extractions, (2) Mapping complex distributed pipelines, (3) Generating definitive technical manuals, (4) Documenting architectural pivots and breakthroughs.
+description: "Industrial-grade forensic pipeline architecture and documentation engine. Orchestrates bottom-up code mapping, evidence-based data tracing, dark-mode Mermaid visualization, and long-form technical manual generation. Captures pivots, failures, and operator energy for 100% forensic resolution on 500MB+ datasets. Use when: (1) Designing high-volume document extractions, (2) Mapping complex distributed pipelines, (3) Generating definitive technical manuals, (4) Documenting architectural pivots and breakthroughs."
 ---
 
 # DEVRYTHING: THE MASTER ENGINE 💀
